@@ -121,8 +121,7 @@ Tablet View
 Mobile View
 
 <img width="496" height="563" alt="Mobile View" src="https://github.com/user-attachments/assets/fb20a70c-8806-4264-9c33-58d1623295f8" />
-
-8. Changelog
+Changelog
 The Part 2 entries I written from problems found in the Part 2.
 Artisan's Hearth Bakery
 WEDE5020 Portfolio of Evidence, Part 3: Enhancing Functionality and SEO Student number: ST10485499 | Updated: 1 November 2026
