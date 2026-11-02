@@ -123,7 +123,7 @@ Mobile View
 <img width="496" height="563" alt="Mobile View" src="https://github.com/user-attachments/assets/fb20a70c-8806-4264-9c33-58d1623295f8" />
 
 8. Changelog
-The Part 2 entries were written from problems found in the Part 2 code. Compare them with your marker's actual feedback and edit them to match.
+The Part 2 entries were written from problems found in the Part 2 code.
 Artisan's Hearth Bakery
 WEDE5020 Portfolio of Evidence, Part 3: Enhancing Functionality and SEO Student number: ST10485499 | Updated: 1 November 2026
 A multi-page website for a fictional artisan bakery in Pretoria. Part 3 adds JavaScript interactivity, form validation, SEO, security and public deployment.
