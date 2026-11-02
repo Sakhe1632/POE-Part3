@@ -121,6 +121,31 @@ Tablet View
 Mobile View
 
 <img width="496" height="563" alt="Mobile View" src="https://github.com/user-attachments/assets/fb20a70c-8806-4264-9c33-58d1623295f8" />
+
+8. Changelog
+The Part 2 entries were written from problems found in the Part 2 code. Compare them with your marker's actual feedback and edit them to match.
+Artisan's Hearth Bakery
+WEDE5020 Portfolio of Evidence, Part 3: Enhancing Functionality and SEO Student number: ST10485499 | Updated: 1 November 2026
+A multi-page website for a fictional artisan bakery in Pretoria. Part 3 adds JavaScript interactivity, form validation, SEO, security and public deployment.
+
+Part 2 feedback corrections
+
+Problem found	Change made
+1	Clashing blue page background (
+#0a1fdd), pink navigation links and a muddy content panel	New palette: enamel blue, crust brown, flour white, with checked contrast
+2	home.html and index.html both existed; index.html held placeholder text	One complete index.html; home.html removed
+3	Links pointed to enquiry.html and contact.html but files were Enquiry.html and Contact.html	All file names and links lowercase
+4	Duplicate stylesheets, one inside a nested CSS/Style.css/ folder, plus a minified <style> block on the products page	One css/style.css
+5	Placeholder and hotlinked images (via.placeholder.com, picsum.photos, missing files, Unsplash)	Local, optimised images only
+6	Invalid HTML: a malformed <src=...> tag, empty style= attributes, missing lang	Valid markup; lang="en-ZA" on every page
+7	Founder named Elias in the story but Lethabo in the team; "Thabo" used in Sakhe's bio	Names made consistent
+8	Placeholder titles, no meta descriptions or keywords	Unique title, description and keywords per page
+9	Meaningless image names (images3.jpg) and an unrelated packaged-roll photo	Descriptive names and alt text; unrelated photo not used
+10	Blank icon headings in the footer and contact page; missing copyright symbol	Clear text labels and consistent footer
+11	Forms with action="#" and no validation or feedback	Full validation, error messages, AJAX and responses
+12	Generic Google Maps embed	Interactive Leaflet map pinned to the bakery
+13	One breakpoint; menu stacked into a tall column on phones	Three breakpoints and a collapsible menu
+
 REFERENCE
 
 - W3Schools. (2026). CSS Tutorial. [Online]. Available at: https://www.w3schools.com/css/
